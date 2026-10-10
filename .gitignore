@@ -1,0 +1,36 @@
+# Gradle and build output
+.gradle/
+build/
+*/build/
+app/build/
+
+# Local configuration (machine specific)
+local.properties
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/deploymentTargetSelector.xml
+
+# Built application files
+*.apk
+*.aar
+*.aab
+
+# Native build
+.cxx/
+.externalNativeBuild/
+
+# Captures and profiling
+captures/
+.navigation/
+
+# OS specific files
+.DS_Store
+Thumbs.db
